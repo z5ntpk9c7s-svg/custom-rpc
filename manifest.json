@@ -1,0 +1,13 @@
+{
+	"id": "coder c.custom-rpc",
+	"name": "custom rpc",
+	"description": "A custom rpc so i cna have fun",
+	"authors": [
+		{
+			"name": "coder c",
+			"id": "0"
+		}
+	],
+	"version": "1.0.0",
+	"main": "index.tsx"
+}
